@@ -1,5 +1,5 @@
 variable "prefix" {
-  default = "smontri" # A personnaliser avec votre nom
+  default = "tipic" # A personnaliser avec votre nom
 }
 
 variable "environment" {
